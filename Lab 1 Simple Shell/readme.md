@@ -13,15 +13,12 @@ This is a basic implementation of a shell in C programming language. It allows u
 - Run `ls` with parameters
 ![](images/ls.png) 
 
-- `exit` the shell
-![](images/exit.png) 
+- `exit` the shell 
+![exit]( images/exit.png) 
 
 - Executing process in background using `&` operand 
 ![](images/&.png) 
 
-
-## Running
-![](images/program%20running.gif) 
 
 ## Usage
 1. Compile the program using a C compiler. For example:
