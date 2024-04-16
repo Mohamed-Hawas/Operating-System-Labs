@@ -1,6 +1,3 @@
-Sure, here's a simple README file for your shell program:
-
-
 # Simple Shell Implementation in C
 
 This is a basic implementation of a shell in C programming language. It allows users to execute commands, change directories (`cd`), and display the current working directory (`pwd`).
