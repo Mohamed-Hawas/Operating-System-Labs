@@ -13,7 +13,7 @@ This is a basic implementation of a shell in C programming language. It allows u
 - Run `ls` with parameters
 ![](images/ls.png) 
 
-- `exit` the shell 
+- `exit` the shell
 ![](images/exit.png) 
 
 - Executing process in background using `&` operand 
@@ -21,7 +21,10 @@ This is a basic implementation of a shell in C programming language. It allows u
 
 
 ## Running
-![](images/program%20running.gif) 
+<video controls width="640" height="360">
+  <source src="images/program running.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Usage
 1. Compile the program using a C compiler. For example:
