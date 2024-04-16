@@ -43,9 +43,9 @@ The program reads two matrices from files, multiplies them using three different
 6. `void* mult_per_element(void* arg)`: A thread function that multiplies two matrices (matrix_a and matrix_b) element by element and stores the result in matrix_c_per_element.
 
 ## 5. Sample Runs and Comparison
-- `a_txt`: Input file containing matrix A data.
+- `a_txt`: Input file containing matrix A data.  
 ![](Screens/a_txt.png)
-- `b_txt`: Input file containing matrix B data.
+- `b_txt`: Input file containing matrix B data. 
 ![](Screens/b_txt.png)
-- `c_txt`: Output file for resulting matrix C for all methods.
+- `c_txt`: Output file for resulting matrix C for all methods. 
 ![](Screens/c_txt.png)
