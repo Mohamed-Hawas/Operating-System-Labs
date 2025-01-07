@@ -7,7 +7,7 @@ This is a basic implementation of a shell in C programming language. It allows u
 - Change directories (`cd`)
 - Display current working directory (`pwd`)
 ![](images/cd.png) 
-- Run `ls` with parameters
+- Run `ls` with parameters 
 ![](images/ls.png) 
 
 - `exit` the shell    
