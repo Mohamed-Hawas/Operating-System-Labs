@@ -8,7 +8,8 @@ This is a basic implementation of a shell in C programming language. It allows u
 - Display current working directory (`pwd`)
 ![](images/cd.png) 
 - Run `ls` with parameters
-  ![](images/ls.png) 
+
+![](images/ls.png) 
 
 - `exit` the shell    
 ![exit]( images/exit.png) 
